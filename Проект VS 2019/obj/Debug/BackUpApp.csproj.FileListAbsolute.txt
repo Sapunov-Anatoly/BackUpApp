@@ -1,0 +1,12 @@
+D:\GameDev and Programming\Internship\BackUpApp\bin\Debug\BackUpApp.exe.config
+D:\GameDev and Programming\Internship\BackUpApp\bin\Debug\BackUpApp.exe
+D:\GameDev and Programming\Internship\BackUpApp\bin\Debug\BackUpApp.pdb
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.csprojAssemblyReference.cache
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.csproj.CoreCompileInputs.cache
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.exe
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.pdb
+D:\GameDev and Programming\Internship\BackUpApp\bin\Debug\Newtonsoft.Json.dll
+D:\GameDev and Programming\Internship\BackUpApp\bin\Debug\Newtonsoft.Json.xml
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.csproj.CopyComplete
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.Properties.Resources.resources
+D:\GameDev and Programming\Internship\BackUpApp\obj\Debug\BackUpApp.csproj.GenerateResource.cache

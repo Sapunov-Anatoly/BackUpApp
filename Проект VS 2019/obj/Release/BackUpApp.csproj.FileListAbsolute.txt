@@ -1,0 +1,24 @@
+D:\GameDev and Programming\Internship\BackUpApp\bin\Release\BackUpApp.exe.config
+D:\GameDev and Programming\Internship\BackUpApp\bin\Release\BackUpApp.exe
+D:\GameDev and Programming\Internship\BackUpApp\bin\Release\BackUpApp.pdb
+D:\GameDev and Programming\Internship\BackUpApp\bin\Release\Newtonsoft.Json.dll
+D:\GameDev and Programming\Internship\BackUpApp\bin\Release\Newtonsoft.Json.xml
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.csprojAssemblyReference.cache
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.Properties.Resources.resources
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.csproj.GenerateResource.cache
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.csproj.CoreCompileInputs.cache
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.csproj.CopyComplete
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.exe
+D:\GameDev and Programming\Internship\BackUpApp\obj\Release\BackUpApp.pdb
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\bin\Release\BackUpApp.exe.config
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\bin\Release\BackUpApp.exe
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\bin\Release\BackUpApp.pdb
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.csprojAssemblyReference.cache
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.Properties.Resources.resources
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.csproj.GenerateResource.cache
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.csproj.CoreCompileInputs.cache
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.csproj.CopyComplete
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.exe
+C:\Users\sanov\Desktop\Тестовые задания\Приложение для резервного копирования\Проект VS 2019\BackUpApp\obj\Release\BackUpApp.pdb
